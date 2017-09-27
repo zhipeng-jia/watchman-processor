@@ -49,7 +49,7 @@
     "sinon": "^3.0.0",
     "ts-helpers": "^1.1.2",
     "tslint": "^5.0.0",
-    "typescript": "^2.2.1"
+    "typescript": "2.5.2"
   },
   "scripts": {
     "compile": "if-ver -ge 0.12 && rollup -c || if-ver -lt 0.12",
