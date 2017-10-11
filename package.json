@@ -29,7 +29,7 @@
     "fb-watchman": "^2.0.0",
     "inversify": "^4.0.0",
     "reflect-metadata": "^0.1.10",
-    "tslib": "^1.6.0"
+    "tslib": "1.7.1"
   },
   "devDependencies": {
     "@types/chai": "^4.0.1",
